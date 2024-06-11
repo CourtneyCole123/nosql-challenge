@@ -18,11 +18,11 @@
 
 - An instance of the Mongo Client is created
 
- ![image](https://github.com/CourtneyCole123/nosql-challenge/assets/162069113/dc63d1f3-c1d1-4021-89c4-4be815c2b9cb)
+  ![image](https://github.com/CourtneyCole123/nosql-challenge/assets/162069113/dc63d1f3-c1d1-4021-89c4-4be815c2b9cb)
  
 - Lists the databases you have in Mongo, which includes uk_food
 
- ![image](https://github.com/CourtneyCole123/nosql-challenge/assets/162069113/be5a4e94-7471-4699-b2bf-116f69c97669)
+  ![image](https://github.com/CourtneyCole123/nosql-challenge/assets/162069113/be5a4e94-7471-4699-b2bf-116f69c97669)
 
 - Lists the collection(s) in the uk_food database, which includes establishments in the output
 
